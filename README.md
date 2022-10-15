@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/57033026/195977115-66103a30-073d-4ff7-8dc9-0a85131f2607.png)
 
 <!--
 **k-m-jin/k-m-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
