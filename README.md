@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=성장하는%20개발자&fontSize=90&fontAlignY=30&desc=김명진 입니다&descSize=50&descAlign=80&animation=" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-m-jin&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
