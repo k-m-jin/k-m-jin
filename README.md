@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MyeongJin&fontSize=70&fontAlign=70&animation=fadeIn&theme=default)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MyeongJin&fontSize=70&fontAlign=70&animation=fadeIn&theme=tokyonight)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center" style="display: flex; align-items: flex-start;">
