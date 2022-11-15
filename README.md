@@ -24,8 +24,6 @@
   
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/k-m-jin&count_bg=%236E7778&title_bg=%234A8BDB&icon=github.svg&icon_color=%231D1B1B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=&fontSize=70&fontAlign=70&animation=fadeIn)
 
 <!--
