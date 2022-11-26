@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8AA8EF,100:B792F2&height=250&section=header&text=MyeongJin&fontSize=70&fontAlign=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8AA8EF,100:B792F2&height=250&section=header&text=MyeongJin&fontSize=70&fontAlign=70&color=fff&animation=fadeIn)
 
 <h3 align="center">📚 Main Stack 📚</h3>
 <div align="center" style="display: flex; align-items: flex-start;">
