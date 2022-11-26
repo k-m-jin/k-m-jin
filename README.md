@@ -13,8 +13,7 @@
 </div>
 
 <h3 align="center">📚 Skill Set 📚</h3>
-
-        <div align="center">Main Stack</div>
+        <div  align="center">Main Stack</div>
       <div align="center">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
@@ -28,14 +27,17 @@
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
          <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
       </div>
-   
+    </li>
+    <li>
     <div  align="center">Experienced</div>
      <div align="center">
     <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase
+-FFCA28?style=flat-square&logo=Firebase
+&logoColor=white"/>
     </div>
       </div>
     </li>
@@ -49,7 +51,9 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
     </div>
-     </div>
+      </div>
+    </li>
+  </ul>
 
 <h3 align="center"> 🖋 My Top Langs 🖋 </h3>
 <div align="center">
