@@ -27,6 +27,7 @@
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
          <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
       </div>
+     <br/>
     <div  align="center">Experienced</div>
      <div align="center">
     <div>
@@ -36,6 +37,7 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
     </div>
       </div>
+           <br/>
     <div  align="center">Collaboration & Tools</div>
      <div align="center">
     <div>
