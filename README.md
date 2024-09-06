@@ -1,17 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8AA8EF,100:B792F2&height=250&section=header&text=MyeongJin&fontSize=70&fontAlign=70&fontColor=fff&animation=fadeIn)
-
 <h3 align="center">✨ About me ✨</h3>
-
 <div align="center">
-
 누구나 쉽게 사용할 수 있는 사용자 경험을 추구하는 개발자 김명진 입니다.
-
 클린코드를 작성하기 위해 늘 고민하고, 의견 존중과 소통을 중요하게 생각합니다.
-
 어제의 나보다 성장하기 위해 노력하고, 호기심이 많습니다.
-
 </div>
-
 <h3 align="center">📚 Skill Set 📚</h3>
         <div  align="center">Main Stack</div>
       <div align="center">
@@ -48,11 +41,12 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
     </div>
       </div>
-
 <h3 align="center"> 🖋 My Top Langs 🖋 </h3>
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-jin&hide=html,scss,css,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 </div>
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8AA8EF,100:B792F2&height=150&section=footer&text=&fontSize=70&fontAlign=70&animation=fadeIn)
